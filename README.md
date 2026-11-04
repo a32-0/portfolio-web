@@ -2,7 +2,7 @@
 
 Personal portfolio of Armando Rojano, Product Designer.
 
-**Live site:** [armando-rojano.vercel.app](https://armando-rojano.vercel.app)
+**Live site:** [a32-0.github.io/portfolio-web/](a32-0.github.io/portfolio-web/)
 
 ## Built with
 
